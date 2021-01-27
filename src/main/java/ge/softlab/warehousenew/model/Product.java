@@ -12,7 +12,7 @@ public class Product {
     @GeneratedValue
     private Long id;
     @Column
-    private String provider;
+    private String productName;
     @Column
     private String store;
     @Column

@@ -12,6 +12,6 @@ public class Provider {
     @GeneratedValue
     private Long id;
     @Column
-    private String provider;
+    private String providerName;
 
 }
